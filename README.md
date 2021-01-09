@@ -72,4 +72,4 @@ Basically, if you want to be thorough,
 - but **do not** remove your eclipse workspace
 
 ## how to deal with fonts
-See font-handling.md
+See [How to deal with fonts](font-handling.md)
