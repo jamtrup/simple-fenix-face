@@ -12,3 +12,7 @@ How to set up your environment is explained [here](docs/setup.md)
 ## Font handling
 How to deal with fonts is explained [here](docs/font-handling.md)
 
+## End result
+And this is what it looks like in the end:
+
+![](docs/images/result.png)
