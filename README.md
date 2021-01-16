@@ -1,8 +1,8 @@
 # Building a simple watch face for the Garmin Fenix 6 Pro
-Bought Fenix 6 Pro
-Liked one watch face, but wanted one more field
+I recently bought a Fenix 6 Pro. Nice watch!
+I liked one of the predefined watch faces, but wanted one more field
 
-What is a computer scientist to do?
+What is a computer scientist to do? Well, get programming, of course!
 
 Garmin Connect SDK main page: https://developer.garmin.com/connect-iq/overview/
 
