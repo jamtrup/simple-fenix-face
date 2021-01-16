@@ -1,0 +1,4 @@
+<fonts>
+    <font id="id_custom_digits" filename="customdigits.fnt" />
+    <font id="id_custom_icons" filename="customicons.fnt" />
+</fonts>
