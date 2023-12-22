@@ -5,6 +5,7 @@ using Toybox.System;
 
 module FilledArc {
 
+	(:typecheck(false))
     function drawArc(dc, value, cxcyradius, arcCenterarcExtent, thickness, outlineColor, filledColor, unfilledColor, direction) {
     	
     	var cx = cxcyradius[0];
