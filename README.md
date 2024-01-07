@@ -16,3 +16,6 @@ How to deal with fonts is explained [here](docs/font-handling.md)
 And this is what it looks like in the end:
 
 ![](docs/images/result.png)
+
+## Credits
+https://github.com/fevieira27/MoveToBeActive/tree/d0f6d7c8fedfaa85cf174303c49c19ecd34bd67c

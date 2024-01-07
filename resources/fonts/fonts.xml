@@ -1,4 +1,5 @@
 <fonts>
     <font id="id_custom_digits" filename="customdigits.fnt" />
+    <font id="id_medium_custom_digits" filename="customdigits64.fnt" />
     <font id="id_custom_icons" filename="customicons.fnt" />
 </fonts>

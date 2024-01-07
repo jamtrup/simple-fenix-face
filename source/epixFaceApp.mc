@@ -1,7 +1,8 @@
-using Toybox.Application;
-using Toybox.Lang;
+import Toybox.Application;
+import Toybox.Lang;
+import Toybox.WatchUi;
 
-class simplefenixfaceApp extends Application.AppBase {
+class epixFaceApp extends Application.AppBase {
 
     function initialize() {
         AppBase.initialize();
@@ -16,8 +17,8 @@ class simplefenixfaceApp extends Application.AppBase {
     }
 
     // Return the initial view of your application here
-    function getInitialView() {
-        return [ new simplefenixfaceView() ];
+    function getInitialView() as Array<Views or InputDelegates>? {
+        return [ new epixFaceView() ] as Array<Views or InputDelegates>;
     }
 
 }

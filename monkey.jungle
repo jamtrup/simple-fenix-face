@@ -1,1 +1,7 @@
 project.manifest = manifest.xml
+project.typecheck = strict
+
+#round-416x416.resourcePath = $(base.resourcePath);resources-416
+
+# annotations (as driven by (:name) in front of functions)
+epix2.excludeAnnotations = nothing

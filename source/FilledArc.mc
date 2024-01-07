@@ -15,9 +15,9 @@ module FilledArc {
     	var arcExtent = arcCenterarcExtent[1];
     	
     	var directionFactor = (direction == Graphics.ARC_CLOCKWISE? -1: 1);
-    	var startAngle = (arcCenter - directionFactor * arcExtent / 2) % 360;
+    	var startAngle = (arcCenter - directionFactor * arcExtent / 2).toNumber() % 360;
     	var midAngle = (startAngle + directionFactor * arcExtent * (value / 100.0)).toNumber() % 360;
- 		var endAngle = (startAngle + directionFactor * arcExtent) % 360;
+ 		var endAngle = (startAngle + directionFactor * arcExtent).toNumber() % 360;
 
 	
         dc.setColor(outlineColor, Graphics.COLOR_TRANSPARENT);

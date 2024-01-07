@@ -1,0 +1,25 @@
+info face="CustomDigits" size=72 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=2 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=72 base=71 scaleW=256 scaleH=256 pages=2 packed=0 alphaChnl=0 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="CustomDigits72_0.png"
+page id=1 file="CustomDigits72_1.png"
+chars count=20
+char id=48   x=140   y=0     width=43    height=64    xoffset=4     yoffset=7     xadvance=52    page=0  chnl=15
+char id=49   x=228   y=0     width=25    height=64    xoffset=2     yoffset=7     xadvance=32    page=0  chnl=15
+char id=50   x=130   y=65    width=40    height=64    xoffset=4     yoffset=7     xadvance=48    page=0  chnl=15
+char id=51   x=44    y=65    width=42    height=64    xoffset=3     yoffset=7     xadvance=49    page=0  chnl=15
+char id=52   x=0     y=0     width=49    height=64    xoffset=3     yoffset=7     xadvance=52    page=0  chnl=15
+char id=53   x=87    y=65    width=42    height=64    xoffset=4     yoffset=7     xadvance=49    page=0  chnl=15
+char id=54   x=184   y=0     width=43    height=64    xoffset=4     yoffset=7     xadvance=51    page=0  chnl=15
+char id=55   x=171   y=65    width=39    height=64    xoffset=1     yoffset=7     xadvance=42    page=0  chnl=15
+char id=56   x=50    y=0     width=44    height=64    xoffset=4     yoffset=7     xadvance=52    page=0  chnl=15
+char id=57   x=0     y=65    width=43    height=64    xoffset=4     yoffset=7     xadvance=51    page=0  chnl=15
+char id=65   x=0     y=130   width=38    height=64    xoffset=6     yoffset=7     xadvance=50    page=0  chnl=15
+char id=66   x=230   y=130   width=20    height=64    xoffset=3     yoffset=7     xadvance=31    page=0  chnl=15
+char id=67   x=117   y=130   width=37    height=64    xoffset=5     yoffset=7     xadvance=46    page=0  chnl=15
+char id=68   x=155   y=130   width=37    height=64    xoffset=6     yoffset=7     xadvance=48    page=0  chnl=15
+char id=69   x=95    y=0     width=44    height=64    xoffset=4     yoffset=7     xadvance=50    page=0  chnl=15
+char id=70   x=193   y=130   width=36    height=64    xoffset=6     yoffset=7     xadvance=47    page=0  chnl=15
+char id=71   x=39    y=130   width=38    height=64    xoffset=5     yoffset=7     xadvance=48    page=0  chnl=15
+char id=72   x=0     y=0     width=35    height=64    xoffset=1     yoffset=7     xadvance=37    page=1  chnl=15
+char id=73   x=211   y=65    width=39    height=64    xoffset=6     yoffset=7     xadvance=50    page=0  chnl=15
+char id=74   x=78    y=130   width=38    height=64    xoffset=5     yoffset=7     xadvance=48    page=0  chnl=15
